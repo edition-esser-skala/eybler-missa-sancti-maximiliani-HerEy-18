@@ -1,0 +1,21 @@
+composer:
+  last: Eybler
+  first: Joseph Leopold Edler von
+title: Missa Sancti Maximiliani
+id: HerEy 18
+genre: mass
+scoring: S, A, T, B (solo), S, A, T, B (coro),\\2 ob, 2 fag, 2 clno (C), timp (C–G), 2 vl, vla, vlc, b, org
+ark: 68748/e1jle18
+license: cc-by-sa-4.0
+sources:
+  A1:
+    siglum: A-Ws
+    shelfmark: 562 (1)
+    date: 1819
+    license: public domain
+    principal: true
+imslp:
+parts:
+  ottoni: Clarino I, II in C\\Timpani in C–G
+  vla: Viole
+  b: Violoncello \& Bassi
