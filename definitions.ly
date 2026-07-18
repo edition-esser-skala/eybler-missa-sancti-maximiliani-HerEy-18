@@ -6,7 +6,11 @@
 \include "ees_articulate.ly"
 
 
+mezzavoce = \markup \remark "mezza voce"
+
+
 tempoKyrie = \tempoMarkup "Andante"
+tempoGloria = \tempoMarkup "Allegro vivace"
 
 
 \include "notes/ob1.ly"
